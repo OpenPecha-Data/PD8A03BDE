@@ -1,0 +1,32 @@
+id: PD8A03BDE
+initial_creation_type: input
+source_metadata:
+  title: Taking Refuge Series
+  language: it
+  description: 'Texts related to the practice of taking refuge (skyabs ''gro):'
+  volume:
+    1ddab838a3f041e098569b4ac4dfbd61:
+      title: Daily Confession (from the Vajrapañjara Tantra)
+      parent: Practices
+    78ae64179e9a467ebe44280b5385d75c:
+      title: The Outer, Inner and Secret Refuge Prayer
+      parent: Practices
+    7f190121763f4064a9c90538fb9427de:
+      title: The Fourfold 'Manam' Refuge
+      parent: Practices
+    7643043a2e434a9a801fbd2b08682086:
+      title: Verses of Refuge and Bodhicitta
+      parent: Practices
+    93d4a47c62ce4cbbab8c6454b38f7157:
+      title: The Outer, Inner and Secret Refuge Practice of the Mahāsiddha Thangtong
+        Gyalpo
+      parent: Practices
+    c2cc32d664de4a7da6f9b8a2ae8936f6:
+      title: A Brief Commentary on the Refuge & Bodhichitta Prayer known as Sangyé
+        Chö Tsok Ma
+      parent: Commentaries
+    59ab8bf926484594a3355f48772ad246:
+      title: An Essential Instruction on Refuge and Bodhichitta
+      parent: Commentaries
+created_at: '2022-03-01T06:01:31.579509'
+last_modified_at: '2022-03-01T06:01:31.579511'
